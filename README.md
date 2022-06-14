@@ -11,7 +11,7 @@ A solution to the [QR code component challenge on Frontend Mentor](https://www.f
 ### Links
 
 -   Solution URL: [Github](https://github.com/Alespitale/qr-card)
--   Live Site URL: [Github live](https://)
+-   Live Site URL: [Github live](https://alespitale.github.io/qr-card/)
 
 ### Built with
 
